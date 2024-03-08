@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShoppingCartMvcUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\BatmanT.jpg",
+      "PackagePath": "staticwebassets\\images\\BatmanT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\Cap.jpg",
+      "PackagePath": "staticwebassets\\images\\Cap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\DPWhatTheHT.jpg",
+      "PackagePath": "staticwebassets\\images\\DPWhatTheHT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\DPandWOlLoveT.jpg",
+      "PackagePath": "staticwebassets\\images\\DPandWOlLoveT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\DisterbedT.jpg",
+      "PackagePath": "staticwebassets\\images\\DisterbedT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\Image3.jpg",
+      "PackagePath": "staticwebassets\\images\\Image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\JokerT.jpg",
+      "PackagePath": "staticwebassets\\images\\JokerT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\LokiT.jpg",
+      "PackagePath": "staticwebassets\\images\\LokiT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\lokishhh.jpg",
+      "PackagePath": "staticwebassets\\images\\lokishhh.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookShoppingCartMvcUI.props",
+      "PackagePath": "build\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildTransitive\\BookShoppingCartMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
