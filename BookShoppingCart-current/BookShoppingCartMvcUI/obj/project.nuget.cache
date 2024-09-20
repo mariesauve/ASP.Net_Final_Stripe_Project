@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iWLhhSBVP4XURE0llNwMhAqkYb+FF8WI5Zep88ohW5NV8+zDW6EHaKvTE7DJDXudKbe6Az6EkGs97bIDcbMU0g==",
+  "dgSpecHash": "lRLBnrz8pNc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj",
+  "projectFilePath": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marie\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\marie\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

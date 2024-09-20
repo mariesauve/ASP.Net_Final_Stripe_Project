@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tjgS+m5Hn1g6XvqMywHfFXgnsz+yQKTi5gBQxlH4DJE=",
+  "Hash": "q6zdnNNV2js/FJ67Ui/YEn9p/V3wu23Ut0glRXbZMaM=",
   "Source": "BookShoppingCartMvcUI",
   "BasePath": "_content/BookShoppingCartMvcUI",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BookShoppingCartMvcUI\\wwwroot",
       "Source": "BookShoppingCartMvcUI",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "Pattern": "**"
     }
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "C:\\Users\\marie\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShoppingCartMvcUI.styles.css",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShoppingCartMvcUI.styles.css",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "BookShoppingCartMvcUI.styles.css",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShoppingCartMvcUI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookShoppingCartMvcUI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "BookShoppingCartMvcUI.bundle.scp.css",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.css",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\BatmanT.jpg",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\BatmanT.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "images/BatmanT.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BatmanT.jpg"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\Cap.jpg",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\Cap.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "images/Cap.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Cap.jpg"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\DisterbedT.jpg",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\DisterbedT.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "images/DisterbedT.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\images\\DisterbedT.jpg"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\DPandWOlLoveT.jpg",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\DPandWOlLoveT.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "images/DPandWOlLoveT.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\images\\DPandWOlLoveT.jpg"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\DPWhatTheHT.jpg",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\DPWhatTheHT.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "images/DPWhatTheHT.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\images\\DPWhatTheHT.jpg"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\Image3.jpg",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\Image3.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "images/Image3.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Image3.jpg"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\JokerT.jpg",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\JokerT.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "images/JokerT.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\images\\JokerT.jpg"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\lokishhh.jpg",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\lokishhh.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "images/lokishhh.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lokishhh.jpg"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\LokiT.jpg",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\LokiT.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "images/LokiT.jpg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\LokiT.jpg"
     },
     {
-      "Identity": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\NoImage.png",
+      "Identity": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\images\\NoImage.png",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Desktop\\A new Test\\BookStoreShoppingCartMVC-Morning-main\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marie\\OneDrive\\Misc\\GitHub\\ASP.Net_Final_Stripe_Project\\BookShoppingCart-current\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
       "RelativePath": "images/NoImage.png",
       "AssetKind": "All",
